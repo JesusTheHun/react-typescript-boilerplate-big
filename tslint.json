@@ -1,0 +1,13 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "react-redux-typescript-scripts/tslint.json",
+        "react-redux-typescript-scripts/tslint-react.json" // optional
+    ],
+    "jsRules": {},
+    "rules": {
+        "jsx-wrap-multiline": false,
+        "jsx-boolean-value": false
+    },
+    "rulesDirectory": []
+}
